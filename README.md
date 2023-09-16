@@ -35,11 +35,11 @@ This project is a simple application that simulates a menu ordering system. It a
 ## How to Run the Program
 To run the program, please use the `gradle run` command in the terminal. Upon running, you will be greeted with the following options:
 
-Hello and welcome!
+- Hello and welcome!
 
-Admin login
-Customer login
-Quit the App
+- Admin login
+- Customer login
+- Quit the App
 
 
 ## How to Test the Program
