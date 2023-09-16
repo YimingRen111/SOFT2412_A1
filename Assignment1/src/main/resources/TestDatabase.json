@@ -1,0 +1,175 @@
+{
+    "order_history": [{
+        "order_date": "2023-09-06",
+        "total_amount": 20.97,
+        "order_id": 1,
+        "items": [
+            {
+                "quantity": 2,
+                "item_id": 1
+            },
+            {
+                "quantity": 1,
+                "item_id": 2
+            }
+        ],
+        "delivery_option": "pickup"
+    }],
+    "admin_account": [
+        {
+            "password": "admin1",
+            "username": "password123"
+        },
+        {
+            "password": "password123",
+            "username": "admin1"
+        },
+        {
+            "password": "password456",
+            "username": "admin2"
+        }
+    ],
+    "menu_items": [
+        {
+            "price": 5.99,
+            "name": "Chicken Burger",
+            "description": "A delicious chicken patty with lettuce and tomato",
+            "type": "food"
+        },
+        {
+            "price": 8.99,
+            "name": "Veggie Pizza",
+            "description": "A large pizza with bell peppers, olives, and mushrooms",
+            "type": "food"
+        },
+        {
+            "price": 12,
+            "name": "Burger",
+            "description": "good",
+            "type": "food"
+        },
+        {
+            "price": 3,
+            "name": "Coke",
+            "description": "Coca-cola",
+            "type": "drinks"
+        },
+        {
+            "price": 7,
+            "name": "Orange juice",
+            "description": "100% hand-squeezed orange juice, made from 8 fresh oranges, with no other ingredients added",
+            "type": "drinks"
+        },
+        {
+            "price": 3,
+            "name": "Sparkling walter",
+            "description": "It always taste good",
+            "type": "drinks"
+        },
+        {
+            "price": 12.5,
+            "name": "burger deluxe",
+            "description": "very delicious",
+            "id": 8,
+            "type": "food"
+        },
+        {
+            "price": 12.5,
+            "name": "burger deluxe",
+            "description": "very delicious",
+            "id": 9,
+            "type": "food"
+        },
+        {
+            "price": 12.5,
+            "name": "burger deluxe",
+            "description": "very delicious",
+            "id": 11,
+            "type": "food"
+        },
+        {
+            "price": 12.5,
+            "name": "burger deluxe",
+            "description": "very delicious",
+            "id": 12,
+            "type": "food"
+        },
+        {
+            "price": 12.5,
+            "name": "burger deluxe",
+            "description": "very delicious",
+            "id": 14,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 15,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 15,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 16,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 17,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 18,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 18,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 19,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 20,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 21,
+            "type": "food"
+        },
+        {
+            "price": 10.5,
+            "name": "burger",
+            "description": "delicious",
+            "id": 21,
+            "type": "food"
+        }
+    ]
+}

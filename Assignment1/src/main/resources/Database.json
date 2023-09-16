@@ -1,0 +1,65 @@
+{
+    "order_history": [{
+        "order_date": "2023-09-06",
+        "total_amount": 20.97,
+        "order_id": 1,
+        "items": [
+            {
+                "quantity": 2,
+                "item_id": 1
+            },
+            {
+                "quantity": 1,
+                "item_id": 2
+            }
+        ],
+        "delivery_option": "pickup"
+    }],
+    "admin_account": [
+        {
+            "password": "password",
+            "username": "Taozhao"
+        },
+        {
+            "password": "123",
+            "username": "Weihao"
+        }
+    ],
+    "menu_items": [
+        {
+            "price": 5.99,
+            "name": "Chicken Burger",
+            "description": "A delicious chicken patty with lettuce and tomato",
+            "type": "food"
+        },
+        {
+            "price": 8.99,
+            "name": "Veggie Pizza",
+            "description": "A large pizza with bell peppers, olives, and mushrooms",
+            "type": "food"
+        },
+        {
+            "price": 12,
+            "name": "Burger",
+            "description": "good",
+            "type": "food"
+        },{
+            "price": 3,
+            "name": "Coke",
+            "description": "Coca-cola",
+            "type": "drinks"
+        },
+        {
+            "price": 7,
+            "name": "Orange juice",
+            "description": "100% hand-squeezed orange juice, made from 8 fresh oranges, with no other ingredients added",
+            "type": "drinks"
+        },
+        {
+            "price": 3,
+            "name": "Sparkling walter",
+            "description": "It always taste good",
+            "type": "drinks"
+        }
+    ]
+}
