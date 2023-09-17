@@ -33,7 +33,7 @@ This project is a simple application that simulates a menu ordering system. It a
     - Methods: `loadJSON()`, `addAdmin()`, `adminlogin()`, `addItem()`, `removeItem()`, `modifyItem()`, `printAllItems()`, `printItems()`, `printItem()`, `printAllOrders()`, and `printOrder()`.
 
 ## How to Run the Program
-To run the program, please use the `gradle run` command in the terminal. Upon running, you will be greeted with the following options:
+To run the program, please use the `gradle run` command in the terminal. Upon running, you will see the the following options in terminal as Text UI:
 
 - Hello and welcome!
 
